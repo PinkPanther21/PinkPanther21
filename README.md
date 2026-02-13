@@ -69,4 +69,4 @@ Learning through hands-on work and continuous iteration.
 - **GitHub:** https://github.com/PinkPanther21  
 - **Email:** moyeon2109@gmail.com  
 
-*Open to internships and entry-level roles.*
+
