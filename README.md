@@ -1,7 +1,16 @@
 # 👋 Moyeon — Aspiring Software Engineer
 
-Software Engineering student focused on **frontend and mobile development**.  
-Seeking **internship or entry-level opportunities** where I can build clean, responsive UIs and production-ready **React / React Native** applications.
+Software Engineering student working with **React and React Native** to build
+real-world, production-style applications.
+
+Currently focused on:
+- API-driven mobile apps
+- State management (Redux)
+- Clean UI flows and error handling
+- Improving UX on mobile (keyboard handling, layout fixes)
+
+Learning through hands-on work and continuous iteration.
+
 
 ---
 
