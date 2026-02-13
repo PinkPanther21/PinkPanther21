@@ -1,4 +1,4 @@
-# 👋 Moyeon — Aspiring Software Engineer
+# 👋 Moyeon — React & React Native Developer
 
 Software Engineering student working with **React and React Native** to build
 real-world, production-style applications.
@@ -28,6 +28,9 @@ Learning through hands-on work and continuous iteration.
 - HTML5
 - CSS3
 - Tailwind CSS
+**State & Data**
+- Redux
+- REST APIs
 
 ### Tools & Operating Systems
 - Git & GitHub
@@ -36,11 +39,6 @@ Learning through hands-on work and continuous iteration.
 
 ---
 
-## 🎯 Current Focus
-- Building polished frontend and cross-platform mobile applications using **React & React Native**
-- Improving **component architecture**, reusable UI patterns, and **TypeScript fundamentals**
-
----
 
 ## 🎓 Education
 **B.Sc. in Software Engineering** (In Progress)
