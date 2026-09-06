@@ -46,7 +46,6 @@ Backend APIs with Node.js, Express, NestJS, TypeORM, PostgreSQL, and MongoDB
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 - Linux (Ubuntu, Kali Linux), Windows
 
@@ -61,7 +60,7 @@ Own two production mobile apps end-to-end: Redux state management, API integrati
 
 ## 🚀 Projects
 
-- **[Notes API]🔗 [Live](https://notes-api-production-13a6.up.railway.app/api)** — NestJS + TypeORM + PostgreSQL REST API with database migrations, transactions, and live Swagger docs, deployed on Railway.
+- **[Notes API](https://github.com/PinkPanther21)** — NestJS + TypeORM + PostgreSQL REST API with database migrations, transactions, and live Swagger docs, deployed on Railway.
 - **[NestJS LMS](https://github.com/PinkPanther21)** — Learning management system backend built with NestJS.
 - **Job Genius AI** — Three-agent AI pipeline (Google ADK, Gemini API, FastAPI, React/Next.js, Firebase, MCP server) built at the Kaggle x Google 5-Day AI Agents Hackathon.
 - **AI Interview Preparation Platform** — MERN stack app using Gemini API and Google ADK to simulate mock interviews.
