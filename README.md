@@ -62,7 +62,7 @@ Own two production mobile apps end-to-end: Redux state management, API integrati
 
 - **[Notes API](https://github.com/PinkPanther21/notes-api)** — NestJS + TypeORM + PostgreSQL REST API with database migrations, transactions, and live Swagger docs, deployed on Railway.
 - **[NestJS LMS](https://github.com/PinkPanther21/nestjs-lms)** — Learning management system backend built with NestJS.
-- **Job Genius AI** — Three-agent AI pipeline (Google ADK, Gemini API, FastAPI, React/Next.js, Firebase, MCP server) built at the Kaggle x Google 5-Day AI Agents Hackathon.
+- **[Job Genius AI](https://github.com/PinkPanther21/kaggle-5-Day-AIAgentHackathon)** — Three-agent AI pipeline (Google ADK, Gemini API, FastAPI, React/Next.js, Firebase, MCP server) built at the Kaggle x Google 5-Day AI Agents Hackathon.
 - **AI Interview Preparation Platform** — MERN stack app using Gemini API and Google ADK to simulate mock interviews.
 - **CardioScan AI** — Cardiovascular risk predictor using Streamlit and scikit-learn.
 - **Animeverse** — Responsive anime catalog & discovery app. 🔗 [Live](https://practice-revesit.vercel.app/)
