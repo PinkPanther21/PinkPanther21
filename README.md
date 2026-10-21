@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Moyeon — Full-Stack & React Native Developer
+# 👋 Hi, I'm Atiqua — Full-Stack & React Native Developer
 
 Final-year Software Engineering student building **production-style mobile and web applications** with React, React Native, and Node.js/NestJS backends. Currently expanding into **AI/ML**.
 
